@@ -1,5 +1,4 @@
 import type { Request, Response } from "express";
-import { pool } from "../db";
 import { userServiece } from "./user/user.serviece";
 
 const creatUser = async (req: Request, res: Response) => {
@@ -18,6 +17,7 @@ const creatUser = async (req: Request, res: Response) => {
 };
 
 const getAllUser = async (req: Request, res: Response) => {
+  console.log("req", req.user);
   try {
     const result = await userServiece.getAllUserFromDB();
     res.status(200).json({

@@ -1,0 +1,107 @@
+Method => GET  Time => 1779024847524  Url => /api/prodaucts 
+
+Method => GET  Time => 1779024901856  Url => /api/profiles 
+
+Method => GET  Time => 1779024903836  Url => /api/profiles 
+
+Method => GET  Time => 1779025121293  Url => /api/profiles 
+
+Method => GET  Time => 1779025320593  Url => /api/users 
+
+Method => POST  Time => 1779037343320  Url => /api/auth/login 
+
+Method => GET  Time => 1779037458331  Url => /api/users 
+
+Method => GET  Time => 1779037484118  Url => /api/users 
+
+Method => GET  Time => 1779037507550  Url => /api/users 
+
+Method => GET  Time => 1779040752465  Url => /api/users 
+
+Method => GET  Time => 1779040793660  Url => /api/users 
+
+Method => GET  Time => 1779040852642  Url => /api/users 
+
+Method => GET  Time => 1779040910964  Url => /api/users 
+
+Method => GET  Time => 1779040952836  Url => /api/users 
+
+Method => GET  Time => 1779041172780  Url => /api/users 
+
+Method => GET  Time => 1779041701622  Url => /api/users 
+
+Method => GET  Time => 1779041703531  Url => /api/users 
+
+Method => GET  Time => 1779041787925  Url => /api/users 
+
+Method => GET  Time => 1779041813106  Url => /api/users 
+
+Method => GET  Time => 1779042178633  Url => /api/users 
+
+Method => GET  Time => 1779042511353  Url => /api/users 
+
+Method => GET  Time => 1779042823541  Url => /api/users 
+
+Method => GET  Time => 1779042864970  Url => /api/users 
+
+Method => GET  Time => 1779043051735  Url => /api/users 
+
+Method => GET  Time => 1779043186827  Url => /api/users 
+
+Method => GET  Time => 1779043243311  Url => /api/users 
+
+Method => GET  Time => 1779043348838  Url => /api/users 
+
+Method => GET  Time => 1779043350664  Url => /api/users 
+
+Method => GET  Time => 1779043547196  Url => /api/users 
+
+Method => GET  Time => 1779043825172  Url => /api/users 
+
+Method => GET  Time => 1779044305965  Url => /api/users 
+
+Method => GET  Time => 1779044398692  Url => /api/users 
+
+Method => GET  Time => 1779044636041  Url => /api/users 
+
+Method => GET  Time => 1779044676270  Url => /api/users 
+
+Method => GET  Time => 1779044884552  Url => /api/users 
+
+Method => GET  Time => 1779044889130  Url => /api/users 
+
+Method => GET  Time => 1779044930225  Url => /api/users 
+
+Method => GET  Time => 1779045056775  Url => /api/users 
+
+Method => GET  Time => 1779045087408  Url => /api/users 
+
+Method => GET  Time => 1779045305149  Url => /api/users 
+
+Method => GET  Time => 1779045390354  Url => /api/users 
+
+Method => GET  Time => 1779045406912  Url => /api/users 
+
+Method => GET  Time => 1779045423270  Url => /api/users 
+
+Method => GET  Time => 1779045449313  Url => /api/users 
+
+Method => POST  Time => 1779045556633  Url => /api/profile 
+
+Method => POST  Time => 1779045600857  Url => /api/profile 
+
+Method => POST  Time => 1779045638426  Url => /api/users/ 
+
+Method => POST  Time => 1779045678832  Url => /api/profile 
+
+Method => POST  Time => 1779045710004  Url => /api/auth/login 
+
+Method => GET  Time => 1779045773827  Url => /api/users 
+
+Method => GET  Time => 1779045883017  Url => /api/users 
+
+Method => GET  Time => 1779045915551  Url => /api/users 
+
+Method => GET  Time => 1779047066532  Url => /api/users 
+
+Method => GET  Time => 1779047083824  Url => /api/users 
