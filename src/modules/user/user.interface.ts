@@ -3,5 +3,6 @@ export interface IUser {
   email: string;
   password: string;
   age: number;
+  role?: "user" | "admin";
   is_active?: boolean;
 }

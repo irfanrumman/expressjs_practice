@@ -2,9 +2,11 @@ import type { NextFunction, Request, Response } from "express";
 import Jwt, { type JwtPayload } from "jsonwebtoken";
 import config from "../configaration";
 import { pool } from "../db";
+import type { ROLES } from "../types";
 
-const auth = () => {
+const auth = (...roles: ROLES[]) => {
   return async (req: Request, res: Response, next: NextFunction) => {
+    console.log("roles:", roles);
     try {
       //Get Token From Headers
       const token = req.headers.authorization;
@@ -45,9 +47,17 @@ const auth = () => {
         });
       }
 
+      // console.log("auth role:", user.role);
+
+      if (roles.length && !roles.includes(user.role)) {
+        res.status(403).json({
+          success: "false",
+          message: "User can not see other users!",
+        });
+      }
+
       req.user = decoded;
 
-      
       next();
     } catch (error) {
       next(error);
